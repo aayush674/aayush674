@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aayush!</h1>
 
-👩🏻‍💻 Passionate  experienced in Advanced Java,Python, AI/ML.<br/>
+👩🏻‍💻 Passionate Data Analyst experienced in Tools like Python, Database Management in MySQL, Power BI, Tableau, Extract Transform Load(ETL) Tools, Machine Learning Models.<br/>
 👩🏻‍🎓 Currently pursuing BTECH (Hons) in AIML from Chandigarh University, Gharuan<br/>
 🔬 Published 2 research papers: Led development of advanced algorithms for Advancements in Space Debris Mitigation:, resulting in a publication in the Institute of Electrical and Electronics Engineers(IEEE).
   
